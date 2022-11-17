@@ -9,4 +9,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinvits&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=58a6fe"/>
 </p>
 
-![Snake animation](https://github.com/Pedrinvits/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pedrinvits/blob/output/github-contribution-grid-snake.svg)
