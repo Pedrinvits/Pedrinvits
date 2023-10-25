@@ -19,6 +19,5 @@
   "name" : "Pedro Vitor",
   "acknowledgements" : ["Programming","Cybersecurity"],
   "languages" : ["Javascript","NextJS","Tailwind","Python"]
-
 }
 ```
