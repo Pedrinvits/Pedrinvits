@@ -24,3 +24,5 @@
 }
 ```
 
+![snake gif](https://github.com/Pedrinvits/Pedrinvits/blob/output/github-contribution-grid-snake.svg)
+
