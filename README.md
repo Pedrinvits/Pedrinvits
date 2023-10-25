@@ -14,8 +14,10 @@
 
 ```kotlin
 {
+
   "name" : "Pedro Vitor",
- "acknowledgements" : ["Programming","Cybersecurity"],
- "languages" : ["Javascript","NextJS","Tailwind","Python"]
+  "acknowledgements" : ["Programming","Cybersecurity"],
+  "languages" : ["Javascript","NextJS","Tailwind","Python"]
+
 }
 ```
