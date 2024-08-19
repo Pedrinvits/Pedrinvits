@@ -9,9 +9,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinvits&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=58a6fe"/>
 </p>
 
-
-<div align="center">
-  <br/>
- <img src="https://github.com/Pedrinvits/Pedrinvits/blob/main/giphy.gif">
-<div/>
-
