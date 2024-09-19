@@ -11,8 +11,8 @@
 <p>Marília, São Paulo, Brazil</p>
 <h3>💻 Techs</h3>
 <p>Languages: JavaScript, TypeScript, PHP, Laravel</p>
-<p>Backend Technologies: Node.js, NestJS, Prisma, Drizzle</p>
-<p>Frontend Technologies: React, Next.js, React Native</p>
+<p>Backend: Node.js, NestJS, Prisma, Drizzle</p>
+<p>Frontend: React, Next.js, React Native</p>
 <p>Databases: PostgreSQL, Sql Server, MongoDb, Firebase</p>
 <p>Testing: Jest</p>
 
