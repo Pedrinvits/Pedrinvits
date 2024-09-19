@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Pedro;&center=true&size=28">
   </a>
 </h1>
-<h2>About me</h2>
 
+<h2>About me</h2>
 <h3>🎓 Education</h3>
 <p>Bachelor’s Degree in Information Systems from the University Center Eurípides of Marília (UNIVEM)</p>
 <h3>🌍 Location:</h3>
