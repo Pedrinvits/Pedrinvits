@@ -7,7 +7,7 @@
 <h3>About me</h3>
 <h3>🎓 Education</h3>
 <p>Bachelor’s Degree in Information Systems from the University Center Eurípides of Marília (UNIVEM)</p>
-<h3>🌍 Location:</h3>
+<h3>🌍 Location</h3>
 <p>Marília, São Paulo, Brazil</p>
 <h3>💻 Techs</h3>
 <p>Languages: JavaScript, TypeScript, PHP, Laravel</p>
